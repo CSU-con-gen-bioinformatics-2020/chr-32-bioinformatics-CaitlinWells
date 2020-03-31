@@ -17,7 +17,7 @@
 # that I have shared with everyone in the class already
 
 # If I had needed to download this, I would have used a command like this:
-rclone copy --tpslimit 10 --fast-list -P --drive-shared-with-me gdrive-pers:CSU-con-gen-2020/pre-indexed-chinook-genome  pre-indexed-chinook-genome
+rclone copy --tpslimit 10 --fast-list -P --drive-shared-with-me gdrive-rclone:CSU-con-gen-2020/pre-indexed-chinook-genome  pre-indexed-chinook-genome
 
 # You would need to modify that for your own system.
 
